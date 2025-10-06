@@ -1,0 +1,5 @@
+{
+  "name": "MEMRY Clinical Chat",
+  "description": "MEMRY (Medical Electronic Management & Response sYstem) is a modern, responsive clinical chat application UI designed to interact with Azure's multi-agent framework. It features thread management, a dark/light theme, and a settings panel for API configuration, all wrapped in a sleek interface reminiscent of leading AI chat platforms.",
+  "requestFramePermissions": []
+}
